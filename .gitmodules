@@ -1,0 +1,3 @@
+[submodule "responsive-project"]
+	path = responsive-project
+	url = git@github.com:raanaweysi/responsive-project.git
