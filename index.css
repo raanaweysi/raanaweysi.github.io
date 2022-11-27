@@ -1,0 +1,39 @@
+body {
+  margin: auto;
+}
+
+#wellcome {
+  height: 150px;
+  width: auto;
+  background-color: rgb(161, 168, 168);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+h1 {
+  color: black;
+  font-size: 30px;
+  margin: 0;
+}
+
+aside {
+  height: 200px;
+  width: 200px;
+  background-color: rgb(120, 124, 129);
+}
+aside ul{
+ padding-left: 10px; 
+}
+
+aside ul li {
+  margin-bottom: 10px;
+  list-style-type: none;
+}
+
+aside ul li a {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+}
