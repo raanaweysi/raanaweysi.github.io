@@ -4,6 +4,6 @@
 [submodule "ecommerce-project"]
 	path = ecommerce-project
 	url = git@github.com:raanaweysi/ecommerce-project.git
-	[submodule "ecommerce-project"]
+	[submodule "toDoList"]
 	path = toDoList
 	url = git@github.com:raanaweysi/toDoList.git
