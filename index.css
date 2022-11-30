@@ -5,7 +5,7 @@ body {
 #wellcome {
   height: 150px;
   width: auto;
-  background-color: rgb(161, 168, 168);
+  background-color: #d9dddd;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -18,22 +18,36 @@ h1 {
   margin: 0;
 }
 
-aside {
-  height: 200px;
-  width: 200px;
-  background-color: rgb(120, 124, 129);
-}
-aside ul{
- padding-left: 10px; 
+section {
+  height: auto;
+  background-color: #e1e2dc;
+  padding-top: 10px;
+  
 }
 
-aside ul li {
+section h1 {
+  display: block;
+  text-align: center;
+}
+
+section ul{
+ padding-left: 10px;
+ margin-top: 10px; 
+ display: block;
+ text-align: center;
+}
+
+section ul li {
   margin-bottom: 10px;
   list-style-type: none;
 }
 
-aside ul li a {
+section ul li a:first-child{
+  margin-top: 10px;
+}
+
+section ul li a {
   text-decoration: none;
-  color: white;
+  color: black;
   font-size: 20px;
 }
