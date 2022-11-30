@@ -8,3 +8,6 @@
 [submodule "toDoList"]
 	path = toDoList
 	url = git@github.com:raanaweysi/toDoList.git
+[submodule "ticTac--game"]
+	path = ticTac--game
+	url = git@github.com:raanaweysi/ticTac--game.git
