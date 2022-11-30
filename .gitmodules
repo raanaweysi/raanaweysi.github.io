@@ -1,6 +1,4 @@
-[submodule "responsive-project"]
-	path = responsive-project
-	url = git@github.com:raanaweysi/responsive-project.git
+
 [submodule "ecommerce-project"]
 	path = ecommerce-project
 	url = git@github.com:raanaweysi/ecommerce-project.git
