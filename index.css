@@ -1,48 +1,68 @@
 body {
   margin: auto;
+  /* direction: rtl; */
 }
 
-#wellcome {
-  height: 150px;
-  width: auto;
-  background-color: #d9dddd;
+header{
+  height: 30vh;
+  display: grid;
+  grid-template-columns: 2fr 4fr;
+  background-color: #c2caca;
+}
+
+header #left {
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-
-h1 {
-  color: black;
-  font-size: 30px;
-  margin: 0;
+header #left img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  align-items: center;
 }
 
-section {
-  height: auto;
+header #right{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+header #right h1{
+
+}
+
+main {
+  display: grid;
+  grid-template-columns: 2fr 4fr;
+}
+
+main .slidSection {
+  height: 100vh;
   background-color: #e1e2dc;
   padding-top: 10px;
   
 }
 
-section h1 {
+main section h1 {
   display: block;
   text-align: center;
 }
 
-section ul{
+main section ul{
  padding-left: 10px;
  margin-top: 10px; 
  display: block;
  text-align: center;
 }
 
-section ul li {
+main section ul li {
   margin-bottom: 10px;
   list-style-type: none;
 }
 
-section ul li a:first-child{
+main section ul li a:first-child{
   margin-top: 10px;
 }
 
@@ -50,4 +70,33 @@ section ul li a {
   text-decoration: none;
   color: black;
   font-size: 20px;
+}
+
+main .main-section{
+  display: grid;
+  grid-template-columns: 2fr 2fr;
+}
+
+.main-section #upLeft iframe{
+  width: 90%;
+  height: 45vh;
+  margin: 20px;
+}
+
+.main-section #upRight iframe{
+  width: 90%;
+  height: 45vh;
+  margin: 20px;
+}
+
+.main-section #downleft iframe{
+  width: 90%;
+  height: 45vh;
+  margin: 20px;
+}
+
+.main-section #downRight iframe{
+  width: 90%;
+  height: 45vh;
+  margin: 20px;
 }
