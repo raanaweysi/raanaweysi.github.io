@@ -11,3 +11,6 @@
 [submodule "ticTac--game"]
 	path = ticTac--game
 	url = git@github.com:raanaweysi/ticTac--game.git
+[submodule "calculator"]
+	path = calculator
+	url = git@github.com:raanaweysi/calculator.git
