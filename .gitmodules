@@ -12,3 +12,9 @@
 [submodule "calculator"]
 	path = calculator
 	url = git@github.com:raanaweysi/calculator.git
+[submodule "shopping"]
+	path = shopping
+	url = git@github.com:raanaweysi/shopping.git
+[submodule "bootstrap-project"]
+	path = bootstrap-project
+	url = git@github.com:raanaweysi/bootstrap-project.git
