@@ -18,3 +18,6 @@
 [submodule "bootstrap-project"]
 	path = bootstrap-project
 	url = git@github.com:raanaweysi/bootstrap-project.git
+[submodule "user-form-projects"]
+	path = user-form-projects
+	url = git@github.com:raanaweysi/user-form-projects.git
