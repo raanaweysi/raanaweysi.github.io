@@ -22,3 +22,6 @@
 	path = foodReservation
 	url = git@github.com:raanaweysi/foodReservation.git
 
+[submodule "userFormProjects"]
+	path = userFormProjects
+	url = git@github.com:raanaweysi/userFormProjects.git
