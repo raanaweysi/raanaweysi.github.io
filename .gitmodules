@@ -1,23 +1,23 @@
 
 
-[submodule "ecommerce-project"]
-	path = ecommerce-project
-	url = git@github.com:raanaweysi/ecommerce-project.git
-[submodule "ticTac--game"]
-	path = ticTac--game
-	url = git@github.com:raanaweysi/ticTac--game.git
-[submodule "toDoList"]
-	path = toDoList
-	url = git@github.com:raanaweysi/toDoList.git
-[submodule "calculator"]
-	path = calculator
-	url = git@github.com:raanaweysi/calculator.git
-[submodule "shopping"]
-	path = shopping
-	url = git@github.com:raanaweysi/shopping.git
-[submodule "bootstrap-project"]
-	path = bootstrap-project
-	url = git@github.com:raanaweysi/bootstrap-project.git
+# [submodule "ecommerce-project"]
+# 	path = ecommerce-project
+# 	url = git@github.com:raanaweysi/ecommerce-project.git
+# [submodule "ticTac--game"]
+# 	path = ticTac--game
+# 	url = git@github.com:raanaweysi/ticTac--game.git
+# [submodule "toDoList"]
+# 	path = toDoList
+# 	url = git@github.com:raanaweysi/toDoList.git
+# [submodule "calculator"]
+# 	path = calculator
+# 	url = git@github.com:raanaweysi/calculator.git
+# [submodule "shopping"]
+# 	path = shopping
+# 	url = git@github.com:raanaweysi/shopping.git
+# [submodule "bootstrap-project"]
+# 	path = bootstrap-project
+# 	url = git@github.com:raanaweysi/bootstrap-project.git
 [submodule "foodReservation"]
 	path = foodReservation
 	url = git@github.com:raanaweysi/foodReservation.git
